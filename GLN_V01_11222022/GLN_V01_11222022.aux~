@@ -1,0 +1,326 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="GLN_V01_11222022" Modified="2022-11-22 20:01:45" ID="1">
+ <Element Name="GLN_20220208_Glinda_Turnaround" ID="3" Folder="GLN_20220208_Glinda_Turnaround">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="Cheek_Blink" Version="1"/>
+  <Drawing Key="" Name="Cheek_Corners" Version="1"/>
+  <Drawing Key="" Name="Mouth_Open_Happy" Version="1"/>
+ </Element>
+ <Element Name="GLN_Glinda_Breakdown_0210" ID="4" Folder="GLN_Glinda_Breakdown_0210">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="GLN_Cheek" ID="5" Folder="GLN_Cheek">
+  <Drawing Key="" Name="Full" Version="1"/>
+  <Drawing Key="" Name="Corner" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Brow" ID="11" Folder="GLN_Brow">
+  <Drawing Key="" Name="Up" Version="1"/>
+  <Drawing Key="" Name="Checkmark" Version="1"/>
+  <Drawing Key="" Name="Dn" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Pupil" ID="12" Folder="GLN_Pupil">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Eye" ID="13" Folder="GLN_Eye">
+  <Drawing Key="" Name="A" Version="1"/>
+  <Drawing Key="" Name="E" Version="1"/>
+  <Drawing Key="" Name="C" Version="1"/>
+  <Drawing Key="" Name="B" Version="1"/>
+  <Drawing Key="" Name="D" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Lens" ID="14" Folder="GLN_Lens">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Highlight" ID="15" Folder="GLN_Highlight">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Bridge" ID="16" Folder="GLN_Bridge">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Nose" ID="17" Folder="GLN_Nose">
+  <Drawing Key="" Name="FR" Version="1"/>
+  <Drawing Key="" Name="PR" Version="1"/>
+  <Drawing Key="" Name="QF" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Ear" ID="18" Folder="GLN_Ear">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Bk" ID="20" Folder="GLN_Hair_Bk">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Bk_Lock" ID="21" Folder="GLN_Hair_Bk_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Top" ID="22" Folder="GLN_Hair_Top">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Top_Lock" ID="23" Folder="GLN_Hair_Top_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Bangs" ID="24" Folder="GLN_Bangs">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Bangs_Lock" ID="25" Folder="GLN_Bangs_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Side" ID="26" Folder="GLN_Hair_Side">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Side_Lock1" ID="27" Folder="GLN_Hair_Side_Lock1">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Side_Lock2" ID="28" Folder="GLN_Hair_Side_Lock2">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Braid_Up" ID="29" Folder="GLN_Hair_Braid_Up">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Braid_Up_Lock" ID="30" Folder="GLN_Hair_Braid_Up_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Braid_Mid" ID="31" Folder="GLN_Hair_Braid_Mid">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Braid_Mid_Lock" ID="32" Folder="GLN_Hair_Braid_Mid_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Braid_Dn" ID="33" Folder="GLN_Hair_Braid_Dn">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_Braid_Dn_Lock" ID="34" Folder="GLN_Hair_Braid_Dn_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Neck" ID="35" Folder="GLN_Neck">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Torso" ID="36" Folder="GLN_Torso">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Button1" ID="37" Folder="GLN_Button1">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Button2" ID="38" Folder="GLN_Button2">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Button3" ID="39" Folder="GLN_Button3">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Seam" ID="40" Folder="GLN_Seam">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Collar" ID="41" Folder="GLN_Collar">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Skirt" ID="42" Folder="GLN_Skirt">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Slit" ID="43" Folder="GLN_Slit">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Upper_Arm" ID="44" Folder="GLN_Upper_Arm">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Forearm" ID="45" Folder="GLN_Forearm">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hand" ID="46" Folder="GLN_Hand">
+  <Drawing Key="" Name="Default_000" Version="1"/>
+  <Drawing Key="" Name="Default_090" Version="1"/>
+  <Drawing Key="" Name="Default_180" Version="1"/>
+  <Drawing Key="" Name="Default_270" Version="1"/>
+  <Drawing Key="" Name="Hold_000" Version="1"/>
+  <Drawing Key="" Name="Hold_090" Version="1"/>
+  <Drawing Key="" Name="Hold_180" Version="1"/>
+  <Drawing Key="" Name="Hold_270" Version="1"/>
+  <Drawing Key="" Name="Fist_000" Version="1"/>
+  <Drawing Key="" Name="Fist_090" Version="1"/>
+  <Drawing Key="" Name="Fist_180" Version="1"/>
+  <Drawing Key="" Name="Fist_270" Version="1"/>
+  <Drawing Key="" Name="Point_000" Version="1"/>
+  <Drawing Key="" Name="Point_090" Version="1"/>
+  <Drawing Key="" Name="Point_180" Version="1"/>
+  <Drawing Key="" Name="Point_270" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Sleeve" ID="47" Folder="GLN_Sleeve">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Upper_Leg" ID="48" Folder="GLN_Upper_Leg">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Shin" ID="49" Folder="GLN_Shin">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Shoe_Fr" ID="50" Folder="GLN_Shoe_Fr">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Shoe_Bk" ID="51" Folder="GLN_Shoe_Bk">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Sketch_Notes" ID="52" Folder="GLN_Sketch_Notes">
+  <Drawing Key="" Name="Sketch" Version="1"/>
+  <Drawing Key="" Name="PoseRef" Version="1"/>
+  <Drawing Key="" Name="TorsoTilts" Version="1"/>
+  <Drawing Key="" Name="Hair_TiltDown" Version="1"/>
+  <Drawing Key="" Name="Hair_NoTilt" Version="1"/>
+  <Drawing Key="" Name="Notes_1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+  <Drawing Key="" Name="FR_Reference" Version="1"/>
+  <Drawing Key="" Name="PR_Reference" Version="1"/>
+  <Drawing Key="" Name="QF_Reference" Version="1"/>
+ </Element>
+ <Element Name="GLN_Edge_Highlight" ID="53" Folder="GLN_Edge_Highlight">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Shoe_Tip" ID="55" Folder="GLN_Shoe_Tip">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Head_Trimmer" ID="56" Folder="GLN_Head_Trimmer">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Head_Sync" ID="58" Folder="GLN_Head_Sync">
+  <Drawing Key="" Name="FR" Version="1"/>
+  <Drawing Key="" Name="PR" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Lip_Sync" ID="59" Folder="GLN_Lip_Sync">
+  <Drawing Key="" Name="FR_Happy_01" Version="1"/>
+  <Drawing Key="" Name="QF_H01closed" Version="1"/>
+  <Drawing Key="" Name="QF_H06wide" Version="1"/>
+  <Drawing Key="" Name="QF_H02snd" Version="1"/>
+  <Drawing Key="" Name="QF_H04" Version="1"/>
+  <Drawing Key="" Name="QF_H03" Version="1"/>
+  <Drawing Key="" Name="QF_H05" Version="1"/>
+  <Drawing Key="" Name="QF_H00mbp" Version="1"/>
+  <Drawing Key="" Name="QF_H09oo" Version="1"/>
+  <Drawing Key="" Name="QF_H08O" Version="1"/>
+  <Drawing Key="" Name="QF_H07r" Version="1"/>
+  <Drawing Key="" Name="QF_H10F" Version="1"/>
+  <Drawing Key="" Name="QF_H12ee" Version="1"/>
+  <Drawing Key="" Name="PR_H01" Version="1"/>
+  <Drawing Key="" Name="PR_H06" Version="1"/>
+  <Drawing Key="" Name="PR_H00mbp" Version="1"/>
+  <Drawing Key="" Name="PR_H02snd" Version="1"/>
+  <Drawing Key="" Name="PR_H05" Version="1"/>
+  <Drawing Key="" Name="PR_H04" Version="1"/>
+  <Drawing Key="" Name="PR_H03" Version="1"/>
+  <Drawing Key="" Name="PR_H08O" Version="1"/>
+  <Drawing Key="" Name="PR_H09oo" Version="1"/>
+  <Drawing Key="" Name="PR_H10f" Version="1"/>
+  <Drawing Key="" Name="PR_H07" Version="1"/>
+  <Drawing Key="" Name="PR_H_01" Version="1"/>
+  <Drawing Key="" Name="PR_H06wide" Version="1"/>
+  <Drawing Key="" Name="PR_H07r" Version="1"/>
+  <Drawing Key="" Name="PR_H12ee" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Glinda_QF_Mouths_0323" ID="62" Folder="GLN_Glinda_QF_Mouths_0323">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="GLN_Master_Handle" ID="66" Folder="GLN_Master_Handle">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Master_Handle" ID="68" Folder="GLN_Master_Handle.68">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Leg_Handle" ID="69" Folder="GLN_Leg_Handle">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Mouth_Handle" ID="75" Folder="GLN_Mouth_Handle">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Mouth_Handle" ID="76" Folder="GLN_Mouth_Handle.76">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Ponytail_Handle" ID="77" Folder="GLN_Ponytail_Handle">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Ponytail_Handle" ID="78" Folder="GLN_Ponytail_Handle.78">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Glinda_Torso_Tilts_Down_0412" ID="79" Folder="GLN_Glinda_Torso_Tilts_Down_0412">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_BK_Hidden" ID="80" Folder="GLN_Hair_BK_Hidden">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Hair_BK_Hidden_Lock" ID="81" Folder="GLN_Hair_BK_Hidden_Lock">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="MC_Reference" ID="82" Folder="MC_Reference">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="GLN_Shadow" ID="83" Folder="GLN_Shadow">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="0" Version="1"/>
+ </Element>
+ <Element Name="20220208_Glinda_Turnaround_BW" ID="86" Folder="20220208_Glinda_Turnaround_BW">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="20220208_Glinda_Turnaround_BW" ID="87" Folder="20220208_Glinda_Turnaround_BW.87">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="GLN_Turnaround_BW" ID="88" Folder="GLN_Turnaround_BW">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="GLN_Turnaround_220813" ID="89" Folder="GLN_Turnaround_220813">
+  <Drawing Key="" Name="Transparent_Hair" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
